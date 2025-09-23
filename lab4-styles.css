@@ -1,0 +1,40 @@
+/* ===== Global Styles ===== */
+body {
+    background-color: #7da6ca; /* Light background color */
+    font-family: Arial, sans-serif;
+}
+
+/* ===== Header Styling ===== */
+h1 {
+    color: rgb(229, 255, 0); /* Header color of your choice */
+    text-align: center;
+}
+
+/* ===== Paragraph Styling ===== */
+p {
+    color: #333333; /* Different text color */
+    padding: 10px;
+}
+
+/* ===== List Styling ===== */
+li {
+    color: #8b0000; /* Different text color for list items */
+}
+
+/* ===== Link Styling ===== */
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none; /* Remove underline on hover */
+}
+
+/* ===== Box Styling ===== */
+.styled-box {
+    border: 2px solid #000000; /* Solid border */
+    background-color: #d3d3d3; /* Light gray background */
+    padding: 15px;
+    text-align: center;
+}
